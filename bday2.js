@@ -11,10 +11,10 @@
 const CONFIG = {
 
   // Dayy of the month being celebrated (1–31)
-  day: 5,
+  day: 7,
 
   // The birthday person's name, shown on the memory wall and letter
-  name: "SHIVANI",
+  name: "Karan ",
 
   // The letter message. Use \n for line breaks.
   message:
@@ -27,17 +27,7 @@ And more than anything, I hope you never forget how special you are.
 Happy Birthday ♡`,
 
   // Nine memory-wall photos. Leave src empty ("") for a soft
-  // placeholder card, or point it at an image URL / base64 string.
-  photos:[
-    { src:"", caption:"first memory" },
-    { src:"", caption:"that day" },
-    { src:"", caption:"favourite" },
-    { src:"", caption:"together" },
-    { src:"", caption:"good days" },
-    { src:"", caption:"always" },
-    { src:"", caption:"laughter" },
-    { src:"", caption:"forever" },
-    { src:"", caption:"us" }
+  // placeholder card, or point it at an image URL / base64 str }
   ],
 
   // Little floating words shown on the final surprise screen
